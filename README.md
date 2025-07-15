@@ -6,3 +6,7 @@
     />
   </a>
 </div>
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/2ca55974-ff63-420e-80da-eaf7a5b5bb65"></video>
+</div>
